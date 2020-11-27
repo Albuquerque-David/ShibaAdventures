@@ -1,0 +1,1925 @@
+fileFormatVersion: 2
+guid: 402679a93d196234f9ff83e6ccddc3aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1209083242830295561
+    second: dragon-boss - Copia_0
+  - first:
+      213: 8220296793200030830
+    second: dragon-boss - Copia_1
+  - first:
+      213: 6716420087987500568
+    second: dragon-boss - Copia_2
+  - first:
+      213: -7686766120457970656
+    second: dragon-boss - Copia_3
+  - first:
+      213: -8711831719001157815
+    second: dragon-boss - Copia_4
+  - first:
+      213: 1067075547833016470
+    second: dragon-boss - Copia_5
+  - first:
+      213: -6866465080051632757
+    second: dragon-boss - Copia_6
+  - first:
+      213: 8541871581960531299
+    second: dragon-boss - Copia_7
+  - first:
+      213: -4378052123034725649
+    second: dragon-boss - Copia_8
+  - first:
+      213: 8929175348063423605
+    second: dragon-boss - Copia_9
+  - first:
+      213: 5886175237022908108
+    second: dragon-boss - Copia_10
+  - first:
+      213: -2918465143076925958
+    second: dragon-boss - Copia_11
+  - first:
+      213: 7323105981295606634
+    second: dragon-boss - Copia_12
+  - first:
+      213: -1264750801678811364
+    second: dragon-boss - Copia_13
+  - first:
+      213: 5450543291204253860
+    second: dragon-boss - Copia_14
+  - first:
+      213: -3268224082166671426
+    second: dragon-boss - Copia_15
+  - first:
+      213: -6553854906185119608
+    second: dragon-boss - Copia_16
+  - first:
+      213: 4329483569730412527
+    second: dragon-boss - Copia_17
+  - first:
+      213: 8557205313092989330
+    second: dragon-boss - Copia_18
+  - first:
+      213: 565912480183116375
+    second: dragon-boss - Copia_19
+  - first:
+      213: -3892940201244356146
+    second: dragon-boss - Copia_20
+  - first:
+      213: -1738297036787761072
+    second: dragon-boss - Copia_21
+  - first:
+      213: -4412178181427405805
+    second: dragon-boss - Copia_22
+  - first:
+      213: 3546369955627233776
+    second: dragon-boss - Copia_23
+  - first:
+      213: 3966691220776916607
+    second: dragon-boss - Copia_24
+  - first:
+      213: -1569155146772668002
+    second: dragon-boss - Copia_25
+  - first:
+      213: 7683963861788813529
+    second: dragon-boss - Copia_26
+  - first:
+      213: 6432567330233851150
+    second: dragon-boss - Copia_27
+  - first:
+      213: -4095645844398169713
+    second: dragon-boss - Copia_28
+  - first:
+      213: 662187655167954225
+    second: dragon-boss - Copia_29
+  - first:
+      213: -729311975295240958
+    second: dragon-boss - Copia_30
+  - first:
+      213: 5136643778458154722
+    second: dragon-boss - Copia_31
+  - first:
+      213: 717436226268814183
+    second: dragon-boss - Copia_32
+  - first:
+      213: 3638459772195268267
+    second: dragon-boss - Copia_33
+  - first:
+      213: -1273942659579597382
+    second: dragon-boss - Copia_34
+  - first:
+      213: 3213300140935493540
+    second: dragon-boss - Copia_35
+  - first:
+      213: 2597240529493715228
+    second: dragon-boss - Copia_36
+  - first:
+      213: 3916173464415302951
+    second: dragon-boss - Copia_37
+  - first:
+      213: -7760207633468720531
+    second: dragon-boss - Copia_38
+  - first:
+      213: 611382817890858280
+    second: dragon-boss - Copia_39
+  - first:
+      213: -5373433232203612216
+    second: dragon-boss - Copia_40
+  - first:
+      213: -5967060363608299511
+    second: dragon-boss - Copia_41
+  - first:
+      213: 5332805378907269590
+    second: dragon-boss - Copia_42
+  - first:
+      213: -2347857207830480395
+    second: dragon-boss - Copia_43
+  - first:
+      213: 3000755283587889410
+    second: dragon-boss - Copia_44
+  - first:
+      213: 6391365646174958918
+    second: dragon-boss - Copia_45
+  - first:
+      213: -4858684236124124376
+    second: dragon-boss - Copia_46
+  - first:
+      213: 7257705806814695898
+    second: dragon-boss - Copia_47
+  - first:
+      213: 8391483608198157999
+    second: dragon-boss - Copia_48
+  - first:
+      213: 405597673423941217
+    second: dragon-boss - Copia_49
+  - first:
+      213: 6888422388745564100
+    second: dragon-boss - Copia_50
+  - first:
+      213: -1863711276555626835
+    second: dragon-boss - Copia_51
+  - first:
+      213: 4323532597401401417
+    second: dragon-boss - Copia_52
+  - first:
+      213: 8958558083054112111
+    second: dragon-boss - Copia_53
+  - first:
+      213: -6504134646889802035
+    second: dragon-boss - Copia_54
+  - first:
+      213: -8218960480519694865
+    second: dragon-boss - Copia_55
+  - first:
+      213: 5553717254780915375
+    second: dragon-boss - Copia_56
+  - first:
+      213: -1302785003701853210
+    second: dragon-boss - Copia_57
+  - first:
+      213: 3459987867980082127
+    second: dragon-boss - Copia_58
+  - first:
+      213: 8760779311599979660
+    second: dragon-boss - Copia_59
+  - first:
+      213: -5556780290060210077
+    second: dragon-boss - Copia_60
+  - first:
+      213: -2950097151743106292
+    second: dragon-boss - Copia_61
+  - first:
+      213: -7358093987895267018
+    second: dragon-boss - Copia_62
+  - first:
+      213: -3680211181015882568
+    second: dragon-boss - Copia_63
+  - first:
+      213: 4260418713389782860
+    second: dragon-boss - Copia_64
+  - first:
+      213: 2685817845274701567
+    second: dragon-boss - Copia_65
+  - first:
+      213: 1680851799826165431
+    second: dragon-boss - Copia_66
+  - first:
+      213: 490270030902789749
+    second: dragon-boss - Copia_0
+  - first:
+      213: -1634544328230008525
+    second: dragon-boss - Copia_1
+  - first:
+      213: 1009541662630280922
+    second: dragon-boss - Copia_2
+  - first:
+      213: -99903575837098461
+    second: dragon-boss - Copia_3
+  - first:
+      213: 5575594340469955825
+    second: dragon-boss - Copia_4
+  - first:
+      213: -2221104536876533562
+    second: dragon-boss - Copia_5
+  - first:
+      213: -1999640964961357528
+    second: dragon-boss - Copia_6
+  - first:
+      213: -5294665977800434786
+    second: dragon-boss - Copia_7
+  - first:
+      213: -5454560556144895126
+    second: dragon-boss - Copia_8
+  - first:
+      213: 1454562823481661828
+    second: dragon-boss - Copia_9
+  - first:
+      213: -7107066388025824996
+    second: dragon-boss - Copia_10
+  - first:
+      213: 8391588960925108998
+    second: dragon-boss - Copia_11
+  - first:
+      213: -2727999991949269394
+    second: dragon-boss - Copia_12
+  - first:
+      213: -1982203014265114318
+    second: dragon-boss - Copia_13
+  - first:
+      213: -2059038879987663591
+    second: dragon-boss - Copia_14
+  - first:
+      213: -5025576411374709768
+    second: dragon-boss - Copia_15
+  - first:
+      213: -5568553519617976276
+    second: dragon-boss - Copia_16
+  - first:
+      213: -7384457644033531737
+    second: dragon-boss - Copia_17
+  - first:
+      213: -3932552545062387606
+    second: dragon-boss - Copia_18
+  - first:
+      213: 1078687690473627073
+    second: dragon-boss - Copia_19
+  - first:
+      213: 8524517116639284094
+    second: dragon-boss - Copia_20
+  - first:
+      213: -7326458544946264980
+    second: dragon-boss - Copia_21
+  - first:
+      213: -3122798441963217406
+    second: dragon-boss - Copia_22
+  - first:
+      213: -652458805946388025
+    second: dragon-boss - Copia_23
+  - first:
+      213: 2436138932503009424
+    second: dragon-boss - Copia_24
+  - first:
+      213: 22222225197773772
+    second: dragon-boss - Copia_25
+  - first:
+      213: 5027765424489221182
+    second: dragon-boss - Copia_26
+  - first:
+      213: 4275808483362891381
+    second: dragon-boss - Copia_27
+  - first:
+      213: 112143730388720341
+    second: dragon-boss - Copia_28
+  - first:
+      213: -1077454970963630296
+    second: dragon-boss - Copia_29
+  - first:
+      213: 523285405400196615
+    second: dragon-boss - Copia_30
+  - first:
+      213: -5765545152402705838
+    second: dragon-boss - Copia_31
+  - first:
+      213: 3700691906831503180
+    second: dragon-boss - Copia_32
+  - first:
+      213: -5033521020682042606
+    second: dragon-boss - Copia_33
+  - first:
+      213: -1378544968831485043
+    second: dragon-boss - Copia_34
+  - first:
+      213: 2033580374232086235
+    second: dragon-boss - Copia_35
+  - first:
+      213: -3899480574818069469
+    second: dragon-boss - Copia_36
+  - first:
+      213: -1417673193681191178
+    second: dragon-boss - Copia_37
+  - first:
+      213: -2675596203711139797
+    second: dragon-boss - Copia_38
+  - first:
+      213: 8078437692978565386
+    second: dragon-boss - Copia_39
+  - first:
+      213: -4098862274215605398
+    second: dragon-boss - Copia_40
+  - first:
+      213: 6408093843330321872
+    second: dragon-boss - Copia_41
+  - first:
+      213: -6199249372950597601
+    second: dragon-boss - Copia_42
+  - first:
+      213: -840776181780042780
+    second: dragon-boss - Copia_43
+  - first:
+      213: -6569108544195188859
+    second: dragon-boss - Copia_44
+  - first:
+      213: -6450637315213217633
+    second: dragon-boss - Copia_45
+  - first:
+      213: -2942569142249847686
+    second: dragon-boss - Copia_46
+  - first:
+      213: 1447209184422041973
+    second: dragon-boss - Copia_47
+  - first:
+      213: 9145136618657741122
+    second: dragon-boss - Copia_48
+  - first:
+      213: 3441727947670050105
+    second: dragon-boss - Copia_49
+  - first:
+      213: -789577188671886839
+    second: dragon-boss - Copia_50
+  - first:
+      213: -8218037076239475432
+    second: dragon-boss - Copia_51
+  - first:
+      213: -2600826614134029552
+    second: dragon-boss - Copia_52
+  - first:
+      213: 5165035121007168935
+    second: dragon-boss - Copia_53
+  - first:
+      213: -7729214716711978853
+    second: dragon-boss - Copia_54
+  - first:
+      213: -1484386414602621387
+    second: dragon-boss - Copia_55
+  - first:
+      213: -6835255645268285830
+    second: dragon-boss - Copia_56
+  - first:
+      213: -840912913925279525
+    second: dragon-boss - Copia_57
+  - first:
+      213: 8044913388452242607
+    second: dragon-boss - Copia_58
+  - first:
+      213: 5240703553021809697
+    second: dragon-boss - Copia_59
+  - first:
+      213: -2456855215979396892
+    second: dragon-boss - Copia_60
+  - first:
+      213: 2322911280988648498
+    second: dragon-boss - Copia_61
+  - first:
+      213: 8193495771586822858
+    second: dragon-boss - Copia_62
+  - first:
+      213: 6448902956473477604
+    second: dragon-boss - Copia_63
+  - first:
+      213: 1568060207159094766
+    second: dragon-boss - Copia_64
+  - first:
+      213: -3686528349209480229
+    second: dragon-boss - Copia_65
+  - first:
+      213: 2284071249813183360
+    second: dragon-boss - Copia_66
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dragon-boss - Copia_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1430
+        width: 156
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5760bfbdef9cdc600800000000000000
+      internalID: 490270030902789749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1430
+        width: 160
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339883af79ee059e0800000000000000
+      internalID: -1634544328230008525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1430
+        width: 162
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adef80b1bcc920e00800000000000000
+      internalID: 1009541662630280922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_3
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1430
+        width: 160
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e30722a321d9ef0800000000000000
+      internalID: -99903575837098461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_4
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1560
+        width: 24
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcd36b038d706d40800000000000000
+      internalID: 5575594340469955825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_5
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1563
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8377e013d0d21e0800000000000000
+      internalID: -2221104536876533562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_6
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1563
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821b82d0329df34e0800000000000000
+      internalID: -1999640964961357528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_7
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1563
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bdbd478519586b0800000000000000
+      internalID: -5294665977800434786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_8
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1560
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b502dd2128d44b0800000000000000
+      internalID: -5454560556144895126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_9
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1563
+        width: 11
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4891d1d6e25af2410800000000000000
+      internalID: 1454562823481661828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_10
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1563
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c192a9266c0ae5d90800000000000000
+      internalID: -7107066388025824996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_11
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1563
+        width: 4
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bc70d03b9e47470800000000000000
+      internalID: 8391588960925108998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_12
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1563
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66689cf572342ad0800000000000000
+      internalID: -2727999991949269394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_13
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1560
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231f4065cdccd74e0800000000000000
+      internalID: -1982203014265114318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_14
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1563
+        width: 25
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dfd934c03dc63e0800000000000000
+      internalID: -2059038879987663591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_15
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1548
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f39d6861e0914ab0800000000000000
+      internalID: -5025576411374709768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_16
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1548
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c285b6ec31688b2b0800000000000000
+      internalID: -5568553519617976276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_17
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1548
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0a674b5e2258990800000000000000
+      internalID: -7384457644033531737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_18
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1548
+        width: 11
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a608ffabb44cc69c0800000000000000
+      internalID: -3932552545062387606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_19
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1548
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd54464db448fe00800000000000000
+      internalID: 1078687690473627073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_20
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1548
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b850b172b2d4670800000000000000
+      internalID: 8524517116639284094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_21
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1548
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c644ad645c0335a90800000000000000
+      internalID: -7326458544946264980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_22
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1548
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e93a1cc5799a4d0800000000000000
+      internalID: -3122798441963217406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_23
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1548
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c17df04c2002f6f0800000000000000
+      internalID: -652458805946388025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_24
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1548
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098575fa377eec120800000000000000
+      internalID: 2436138932503009424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1282
+        width: 161
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3380ffef2fe4000800000000000000
+      internalID: 22222225197773772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_26
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1282
+        width: 165
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ccbace30636c540800000000000000
+      internalID: 5027765424489221182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_27
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1282
+        width: 168
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57662725929b65b30800000000000000
+      internalID: 4275808483362891381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_28
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1282
+        width: 165
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da5b9de02a6e8100800000000000000
+      internalID: 112143730388720341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_29
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1282
+        width: 161
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827eb3a996c1c01f0800000000000000
+      internalID: -1077454970963630296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_30
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1282
+        width: 156
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7066601cd45134700800000000000000
+      internalID: 523285405400196615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_31
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1282
+        width: 150
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252bf862b3bacffa0800000000000000
+      internalID: -5765545152402705838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_32
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1282
+        width: 156
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fcad1aeaf7b5330800000000000000
+      internalID: 3700691906831503180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1142
+        width: 167
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21309c8ec47552ab0800000000000000
+      internalID: -5033521020682042606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_34
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1142
+        width: 165
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bb5e997ac6edce0800000000000000
+      internalID: -1378544968831485043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_35
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1142
+        width: 163
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd63f44739ab83c10800000000000000
+      internalID: 2033580374232086235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1142
+        width: 161
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324de69d31342e9c0800000000000000
+      internalID: -3899480574818069469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_37
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1142
+        width: 177
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fef903ddb9635ce0800000000000000
+      internalID: -1417673193681191178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_38
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1142
+        width: 153
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20f96bbd6f5edad0800000000000000
+      internalID: -2675596203711139797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 986
+        width: 162
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a011d16c7406c1070800000000000000
+      internalID: 8078437692978565386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_40
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 986
+        width: 155
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b01227a7aed17c0800000000000000
+      internalID: -4098862274215605398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_41
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 986
+        width: 200
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd4213266f1ee850800000000000000
+      internalID: 6408093843330321872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_42
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 986
+        width: 196
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1077335a87d7f9a0800000000000000
+      internalID: -6199249372950597601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_43
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 980
+        width: 179
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb246d6486f454f0800000000000000
+      internalID: -840776181780042780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 830
+        width: 155
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587234c6596d5d4a0800000000000000
+      internalID: -6569108544195188859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_45
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 830
+        width: 153
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9036dbe98bba76a0800000000000000
+      internalID: -6450637315213217633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_46
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 830
+        width: 184
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a740c2d94f4e927d0800000000000000
+      internalID: -2942569142249847686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_47
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 830
+        width: 181
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5799829e515851410800000000000000
+      internalID: 1447209184422041973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_48
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 830
+        width: 167
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249f2893d4d0aee70800000000000000
+      internalID: 9145136618657741122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_49
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 634
+        width: 158
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9355866555973cf20800000000000000
+      internalID: 3441727947670050105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_50
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 634
+        width: 161
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ae572fabbda05f0800000000000000
+      internalID: -789577188671886839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_51
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 634
+        width: 163
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d91c7f1daa3fd80800000000000000
+      internalID: -8218037076239475432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_52
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 634
+        width: 171
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013c82669f108ebd0800000000000000
+      internalID: -2600826614134029552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_53
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 634
+        width: 163
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad8c08b314eda740800000000000000
+      internalID: 5165035121007168935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_54
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 634
+        width: 163
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9839a19a205cb490800000000000000
+      internalID: -7729214716711978853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_55
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 634
+        width: 186
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ee138ab66666be0800000000000000
+      internalID: -1484386414602621387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 438
+        width: 182
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76ecc2943b4421a0800000000000000
+      internalID: -6835255645268285830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_57
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 438
+        width: 163
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0f17ef82a7454f0800000000000000
+      internalID: -840912913925279525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_58
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 438
+        width: 170
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4ea7f5a1645af60800000000000000
+      internalID: 8044913388452242607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_59
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 438
+        width: 163
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1241ef27d18bab840800000000000000
+      internalID: 5240703553021809697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_60
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 438
+        width: 163
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e08bf2b23f77edd0800000000000000
+      internalID: -2456855215979396892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_61
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 438
+        width: 163
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2347314b083ac3020800000000000000
+      internalID: 2322911280988648498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 290
+        width: 156
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac209164ef425b170800000000000000
+      internalID: 8193495771586822858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 150
+        width: 160
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e96197321b1f7950800000000000000
+      internalID: 6448902956473477604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_64
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 156
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeda422537ed2c510800000000000000
+      internalID: 1568060207159094766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_65
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2
+        width: 156
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd336fa9ff1d6dcc0800000000000000
+      internalID: -3686528349209480229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon-boss - Copia_66
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2
+        width: 156
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b1cce33b6a2bf10800000000000000
+      internalID: 2284071249813183360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
